@@ -1,6 +1,14 @@
 
 project:
   type: website
+  render:
+    - index.qmd
+    - about.qmd
+    - cv.qmd
+    - projects.qmd
+    - contact.qmd
+    - projects/colombia-violence-eda.qmd
+    - projects/santiago-urban-heat.qmd
 
 
 website:

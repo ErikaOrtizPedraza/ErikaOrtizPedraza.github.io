@@ -26,3 +26,6 @@ projects/colombia-violence.qmd
 # Generated Quarto website
 _site/
 site_libs/
+
+/.quarto/
+**/*.quarto_ipynb
