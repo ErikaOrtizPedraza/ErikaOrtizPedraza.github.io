@@ -1,0 +1,50 @@
+
+---
+title: "About Me"
+toc: false
+---
+
+::: {.grid .about-intro}
+
+::: {.g-col-12 .g-col-md-4}
+
+![](images/erika-portrait.png){.about-photo}
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+[POLITICAL SCIENCE · INTERNATIONAL AFFAIRS · DATA SCIENCE]{.project-category}
+
+## Hello, I'm Erika.
+
+I am a political scientist with an interdisciplinary background in international affairs and data science.
+
+My academic and professional interests center on political violence, peace processes, human rights, and the broader dynamics shaping conflict and governance.
+
+I am particularly interested in combining substantive political analysis with quantitative and computational methods to explore complex social questions.
+
+:::
+
+:::
+
+
+## Academic Background
+
+I studied Political Science at the Universidad Nacional de Colombia, where my interest in peace and conflict research developed through work related to Colombia's peace process, armed actors, and the territorial consequences of violence.
+
+I later completed a Master of International Affairs at the Hertie School in Berlin, focusing on human rights and global governance. I have also pursued graduate studies in Data Science at Pontificia Universidad Católica de Chile, expanding my skills in statistical analysis, computational methods, and data visualization.
+
+## Research and Professional Experience
+
+My professional experience includes working with the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) on stabilization and peacebuilding, including topics related to the Colombia–ELN peace process and the Bangsamoro peace process in the Philippines.
+
+I have also contributed to human rights research and digital verification through Amnesty International's Digital Verification Corps.
+
+## Research Approach and Interests
+
+Across these experiences, I have become increasingly interested in how quantitative and computational approaches can complement political and institutional analysis.
+
+My work draws on both qualitative and quantitative methods to examine complex political and social questions, with particular interests in conflict dynamics, governance, climate-related challenges, and spatial analysis.
+
+Through this portfolio, I share selected research and data science projects that reflect these interests and my ongoing development as an interdisciplinary researcher.

@@ -1,0 +1,94 @@
+
+
+---
+title: "Home"
+title-block-banner: false
+page-layout: full
+toc: false
+title: false
+---
+
+
+::: {.hero-section}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-lg-7 .hero-content}
+
+<p class="hero-eyebrow">POLITICAL SCIENCE · INTERNATIONAL AFFAIRS · DATA SCIENCE</p>
+
+# Erika Ortiz, MSc
+
+### Research at the intersection of politics and data.
+
+I explore political violence, peace, human rights, and governance through computational and quantitative approaches to social research.
+
+[Explore My Work](projects.html){.btn .btn-primary}
+[About Me](about.qmd){.btn .btn-outline-primary}
+
+:::
+
+::: {.g-col-12 .g-col-lg-5 .hero-visual}
+
+![](images/erika-portrait.png){.hero-photo}
+
+:::
+
+:::
+
+:::
+
+
+## Research Interests
+
+- Peace, conflict, and political violence
+- Human rights and international affairs
+- Computational social science
+- Climate change, governance, and security
+- Geospatial and quantitative analysis
+
+
+
+## Featured Projects
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.project-card}
+
+[CONFLICT RESEARCH]{.project-category}
+
+### [Armed-Conflict Violence in Colombia](projects/colombia-violence-eda.html)
+
+An exploratory analysis of recorded conflict-related violence between 2018 and 2024, examining temporal patterns, geographic distributions, and violence categories.
+
+**Methods:** Python · Exploratory Data Analysis · Data Visualization
+
+[Explore Project →](projects/colombia-violence-eda.html)
+
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.project-card}
+
+[GEOSPATIAL & CLIMATE ANALYSIS]{.project-category}
+
+### [Urban Heat Islands in Santiago](projects/santiago-urban-heat.html)
+
+Exploring the spatial distribution of land surface temperatures and demographic vulnerability in Greater Santiago through satellite imagery and spatial statistics.
+
+**Methods:** Python · GIS · Moran's I · LISA
+
+[Explore Project →](projects/santiago-urban-heat.html)
+
+:::
+:::
+
+:::
+
+## Explore My Work
+
+Visit the **About** page to learn more about my academic background.

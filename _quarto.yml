@@ -1,0 +1,29 @@
+
+project:
+  type: website
+
+
+website:
+  title: "Erika Ortiz, M.Sc."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+      - href: projects.html
+        text: Projects
+      - href: contact.qmd
+        text: Contact
+
+  page-footer:
+    center: "© 2026 Erika Ortiz"
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

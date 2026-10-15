@@ -1,0 +1,28 @@
+
+# Quarto temporary files
+.quarto/
+_freeze/
+*_files/
+
+# Python temporary files
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# macOS files
+.DS_Store
+
+# Private data and credentials
+.env
+.env.*
+*.xlsx
+*.xls
+*.csv
+*.parquet
+
+# Older research draft - keep locally
+projects/colombia-violence.qmd
+
+# Generated Quarto website
+_site/
+site_libs/

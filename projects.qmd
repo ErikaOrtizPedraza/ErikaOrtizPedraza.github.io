@@ -1,0 +1,65 @@
+
+---
+title: "Projects"
+toc: false
+---
+
+# Research & Data Science Portfolio
+
+This page brings together selected research and data science projects, combining substantive social science questions with computational and quantitative methods.
+
+My work includes statistical modeling, geospatial analysis, and reproducible research using Python and R.
+
+
+## Selected Projects
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.project-card}
+
+[CONFLICT RESEARCH]{.project-category}
+
+### [Patterns of Armed-Conflict Violence in Colombia](projects/colombia-violence-eda.html)
+
+An exploratory analysis of recorded conflict-related violence between 2018 and 2024, examining temporal trends, geographic distributions, violence categories, and associated armed groups.
+
+**Methods:** Exploratory Data Analysis · Python · Data Visualization
+
+[Explore Project →](projects/colombia-violence-eda.html)
+
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.project-card}
+
+[GEOSPATIAL & CLIMATE ANALYSIS]{.project-category}
+
+### [Urban Heat Islands and Spatial Vulnerability in Santiago](projects/santiago-urban-heat.html)
+
+A geospatial analysis of land surface temperatures and the distribution of older residents in Greater Santiago, using satellite imagery and spatial statistics.
+
+**Methods:** Python · GIS · Moran's I · LISA
+
+[Explore Project →](projects/santiago-urban-heat.html)
+
+:::
+:::
+
+:::
+
+
+## Tools and Methods
+
+- **Programming:** Python, R
+- **Quantitative analysis:** Statistical modeling, dimensionality reduction, clustering
+- **Comparative methods:** Qualitative Comparative Analysis (QCA)
+- **Geospatial methods:** Spatial data analysis and visualization
+- **Reproducible research:** Jupyter Notebooks, Google Colab, GitHub
+
+## Interactive Visualizations
+
+Interactive maps, data visualizations, and computational demonstrations will be added as individual projects are published.

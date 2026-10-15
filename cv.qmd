@@ -1,0 +1,97 @@
+---
+title: "Curriculum Vitae"
+toc: true
+toc-depth: 2
+body-classes: cv-page
+---
+
+## Education
+
+**Master's Degree in Data Science**  
+Pontificia Universidad Católica de Chile  
+September 2026
+
+**Master of International Affairs**  
+Hertie School, Berlin, Germany  
+June 2025
+
+**Bachelor's Degree in Political Science**  
+Universidad Nacional de Colombia  
+September 2015
+
+## Professional & Research Experience
+
+### German International Cooperation (GIZ)
+**Professional Year — Mediation, Peacebuilding and Stabilization**  
+June 2023 – June 2024
+
+- Supported advisory work for the German Federal Foreign Office on stabilization and peacebuilding.
+- Conducted research and contributed to policy briefs on conflict-affected regions and peace negotiations.
+- Developed a digital toolkit for verification and rapid tracking of armed-conflict information.
+
+### National University of Colombia
+**Consultant — Research Group on Territorial Development, Peace and Post-Conflict**  
+December 2017 – February 2018
+
+- Supported research monitoring the implementation of Colombia's peace agreement, including agrarian reform and the vulnerability of social activists.
+
+**Coordinator — Observatory of Local Actors for Territorial Peace**  
+December 2015 – October 2017
+
+- Coordinated monitoring and mapping of non-state actors during the Colombian peace process.
+- Supervised regional data collection teams.
+
+**Consultant — Socioeconomic Census of FARC Members**  
+May 2017
+
+- Contributed to the socioeconomic census project supported by the Colombian Presidency and the United Nations.
+
+**Researcher — Territorial Impacts and Reparation Project**  
+April 2014 – December 2015
+
+- Collected and analyzed information concerning non-state armed actors and territorial conflict dynamics.
+
+**Teaching Assistant — Faculty of Political Science**  
+February – November 2016
+
+- Assisted with seminars on Colombian political and economic history and research methods.
+
+### CampusAsyl, Germany
+**Volunteer — Human Rights and Migration**  
+August 2017 – December 2018
+
+- Supported organizational activities and educational, artistic, and cultural projects with refugees and asylum seekers.
+
+## Selected Certifications & Training
+
+- **Peace and Conflict School** — Istanbul Peace Research Center, 2026
+- **Digital Verification Corps** — Amnesty International, 2024–2025
+- **Digital Governance** — Hertie School Centre for Digital Governance, 2025
+- **Geospatial Information Technology in Fragile Contexts** — UNITAR, 2025
+- **Basic SQL & Statistics for R** — Codecademy, 2024
+- **Protection of Women's Rights** — CLACSO, 2021
+
+## Publications & Contributions
+
+**Ortiz, E., Dornelles, R., & Wang, Y. (2025).**  
+[How AI can tackle disinformation in Latin America](https://www.hertie-school.org/en/digital-governance/research/blog/detail/content/how-ai-can-tackle-disinformation-in-latin-america). Hertie School Centre for Digital Governance.
+
+**Ortiz Pedraza, E. J. (2018).**  
+[Von Ronaldo, Messi und Hemingway – Sport, Spiel & Spaß in der Erstaufnahme](https://web.archive.org/web/20230126221641/https://www.campus-asyl.de/von-ronaldo-messi-und-hemingway-sport-spiel-spass-in-der-erstaufnahme/). CampusAsyl.
+
+**Ortiz Pedraza, E. J., Sánchez Isaza, S. M., & Guzmán Medrano, D. E. (2012).**  
+[Representaciones de la población desplazada por la violencia en la escena política colombiana](https://derecho.bogota.unal.edu.co/fileadmin/publicaciones/Semilleros/LibrosSemilleros/2012/Semilleros_2012-8.pdf). Universidad Nacional de Colombia.
+
+## Technical Skills
+
+**Programming and Data Analysis:** Python, R, SQL
+
+**Research Methods:** Quantitative and qualitative analysis, comparative research, conflict analysis
+
+**Additional Tools:** Tableau, Databricks (Apache Spark), Microsoft Office, Canva
+
+## Languages
+
+- Spanish — Native
+- English — C1
+- German — C1
