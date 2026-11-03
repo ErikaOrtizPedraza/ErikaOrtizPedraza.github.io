@@ -13,22 +13,22 @@ title: false
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-lg-7 .hero-content}
+::: {.g-col-12 .g-col-lg-8 .hero-content}
 
 <p class="hero-eyebrow">POLITICAL SCIENCE · INTERNATIONAL AFFAIRS · DATA SCIENCE</p>
 
 # Erika Ortiz, MSc
 
-### Research at the intersection of politics and data.
+### Exploring conflict, governance, and social change through data.
 
-I explore political violence, peace, human rights, and governance through computational and quantitative approaches to social research.
+My work brings together political science, international affairs, and data science to examine questions of conflict, peacebuilding, human rights, and governance. I use quantitative and computational methods to explore political and social dynamics, with a particular interest in how evidence can inform research and public policy.
 
-[Explore My Work](projects.html){.btn .btn-primary}
+[View My CV](cv.qmd){.btn .btn-primary}
 [About Me](about.qmd){.btn .btn-outline-primary}
 
 :::
 
-::: {.g-col-12 .g-col-lg-5 .hero-visual}
+::: {.g-col-12 .g-col-lg-4 .hero-visual}
 
 ![](images/erika-portrait.png){.hero-photo}
 
@@ -41,13 +41,16 @@ I explore political violence, peace, human rights, and governance through comput
 
 ## Research Interests
 
-- Peace, conflict, and political violence
-- Human rights and international affairs
-- Computational social science
-- Climate change, governance, and security
-- Geospatial and quantitative analysis
+<div class="research-interests">
+  <span class="research-tag">Democracy, Elections & Political Behavior</span>
+  <span class="research-tag">Peace, Conflict & Political Violence</span>
+  <span class="research-tag">Human Rights, Migration & Governance</span>
+  <span class="research-tag">Computational Social Science</span>
+  <span class="research-tag">Climate Change, Politics & Security</span>
+  <span class="research-tag">Geospatial & Quantitative Analysis</span>
+</div>
 
-
+<!--
 
 ## Featured Projects
 
@@ -89,6 +92,16 @@ Exploring the spatial distribution of land surface temperatures and demographic 
 
 :::
 
-## Explore My Work
+-->
 
-Visit the **About** page to learn more about my academic background.
+::: {.connect-section}
+
+## Let's Connect
+
+I welcome opportunities to exchange ideas, collaborate on research, and contribute to projects addressing political and social challenges.
+
+[Get in Touch](contact.qmd){.btn .btn-outline-primary}
+
+:::
+
+

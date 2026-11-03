@@ -5,11 +5,7 @@ project:
     - index.qmd
     - about.qmd
     - cv.qmd
-    - projects.qmd
     - contact.qmd
-    - projects/colombia-violence-eda.qmd
-    - projects/santiago-urban-heat.qmd
-
 
 website:
   title: "Erika Ortiz, M.Sc."
@@ -21,8 +17,6 @@ website:
         text: About
       - href: cv.qmd
         text: CV
-      - href: projects.html
-        text: Projects
       - href: contact.qmd
         text: Contact
 

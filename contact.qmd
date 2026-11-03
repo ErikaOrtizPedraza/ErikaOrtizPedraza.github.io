@@ -4,28 +4,8 @@ title: "Contact"
 toc: false
 ---
 
-## Let's Connect
+I'm always interested in connecting with people working across political science, international affairs, and data science, particularly through interdisciplinary research and academic collaboration.
 
-I welcome opportunities for academic collaboration, interdisciplinary research, and professional exchange in political science, international affairs, and data science.
+If you'd like to discuss a research project, exchange ideas, or explore opportunities to work together, I'd be happy to hear from you.
 
-Whether you are interested in discussing a research project or exploring potential collaborations, feel free to get in touch.
-
-::: {.contact-card}
-
-### Email
-
-[ejortizp@unal.edu.co](mailto:ejortizp@unal.edu.co)
-
-### GitHub
-
-My code and selected analytical projects.
-
-*Profile link to be added.*
-
-### LinkedIn
-
-Professional experience and academic background.
-
-*Profile link to be added.*
-
-:::
+**Email:** [ejortizp@unal.edu.co](mailto:ejortizp@unal.edu.co)
